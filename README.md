@@ -1,6 +1,3 @@
-/* 
-
-
 # Golden State Class Exercise
 
 ----
